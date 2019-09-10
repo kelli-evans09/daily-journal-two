@@ -1,0 +1,53 @@
+{
+  "journals": [
+    {
+      "id": 1,
+      "date": "2019-08-28",
+      "concept": "Project - Pulling info from API",
+      "mood": "Confident",
+      "entry": "Started our project of fetching data from an API and printing it to the DOM"
+    },
+    {
+      "id": 2,
+      "date": "2019-08-29",
+      "concept": "Projects Day 2",
+      "mood": "Unsure",
+      "entry": "Hit a couple road bumps with GitHub and trying to filter our results from the API search"
+    },
+    {
+      "id": 3,
+      "date": "2019-08-30",
+      "concept": "Project Day 3 and Retro",
+      "mood": "Confident",
+      "entry": "Finished our project, presented it to Tommy, did our retro. Felt pretty good about it"
+    },
+    {
+      "date": "2019-09-03",
+      "concept": "Journal Refactor",
+      "mood": "Okay",
+      "entry": "Faaacckkk. I don't get it",
+      "id": 4
+    },
+    {
+      "date": "2019-09-04",
+      "concept": "Journal Entry Pt 7",
+      "mood": "Unsure",
+      "entry": "Tried to refactor my journal, lost half of my stuff, had to start over from scratch. Still not finished",
+      "id": 5
+    },
+    {
+      "date": "2019-09-06",
+      "concept": "Daily Journal Pt 9",
+      "mood": "Confident",
+      "entry": "Got it working",
+      "id": 6
+    },
+    {
+      "date": "2019-09-10",
+      "concept": "Used CRUD on daily journal",
+      "mood": "Confident",
+      "entry": "Finally fixed everything and got it to save edited entries as well",
+      "id": 7
+    }
+  ]
+}
